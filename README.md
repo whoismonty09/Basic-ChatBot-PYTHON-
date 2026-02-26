@@ -1,16 +1,50 @@
-print("Chatbot started type bye to exit")
+# 🤖 Rule Based Chatbot (Python)
 
-while True:
-    user = input("You: ").lower()
+## 📌 Project Overview
+This project is a simple Python based rule driven chatbot that responds to user input using predefined conditions and keywords.
 
-    if user == "hello":
-        print("Bot: Hello how can I help you")
-    elif user == "how are you":
-        print("Bot: I am fine thank you")
-    elif user == "who are you":
-        print("Bot: I am a chatbot developed by Monty")
-    elif user == "bye":
-        print("Bot: Goodbye")
-        break
-    else:
-        print("Bot: Sorry I do not understand")
+---
+
+## 🚀 Features
+- Interactive chat with user
+- Predefined responses
+- Simple and lightweight
+- Runs in command line
+
+---
+
+## 🛠 Technologies Used
+- Python
+
+---
+
+## 📚 Concepts Applied
+- Conditional statements
+- Loops
+- User input handling
+- Basic chatbot logic
+
+---
+
+## ▶ How to Run
+python chatbot.py
+
+---
+
+## 🎯 Learning Outcomes
+- Learned how chatbots work
+- Practiced Python control flow
+- Improved logic building skills
+
+---
+
+## 🔮 Future Enhancements
+- Add more rules and responses
+- Integrate GUI interface
+- Add voice input and output
+- Use AI or NLP libraries
+
+---
+
+## 👨‍💻 Author
+Developed by **Your Name**
