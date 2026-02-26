@@ -1,4 +1,4 @@
-# 🤖 Rule Based Chatbot (Python)
+# 🤖 Basic Chatbot (Python)
 
 ## 📌 Project Overview
 This project is a simple Python based rule driven chatbot that responds to user input using predefined conditions and keywords.
